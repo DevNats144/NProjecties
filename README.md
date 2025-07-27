@@ -1,2 +1,2 @@
 # NProjecties
-Repositório para a página projectos
+Repositório para a página 'Projectos'
